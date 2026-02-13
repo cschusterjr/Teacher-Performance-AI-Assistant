@@ -21,7 +21,7 @@ An AI-powered teacher assistant that answers key questions about student perform
 1) Generate synthetic data:
 ```bash
 python scripts/generate_synthetic_data.py
-
+```bash
 2) Run backend:
 ```bash
 pip install -r backend/requirements.txt
